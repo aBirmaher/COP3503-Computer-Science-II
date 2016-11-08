@@ -1,0 +1,75 @@
+Map #1
+The shortest distance between 2 and 1 is 3.00.
+The shortest path from 2 to 1 is 2->0->1.
+
+Map #2
+The shortest distance between 0 and 1 is 2.00.
+The shortest path from 0 to 1 is 0->1.
+
+Map #3
+The shortest distance between 0 and 1 is 20.00.
+The shortest path from 0 to 1 is 0->1.
+
+Map #4
+The shortest distance between 3 and 1 is 120.00.
+The shortest path from 3 to 1 is 3->1.
+
+Map #5
+The shortest distance between 0 and 2 is 5.00.
+The shortest path from 0 to 2 is 0->2.
+
+Map #6
+The shortest distance between 17 and 19 is 77.00.
+The shortest path from 17 to 19 is 17->1->18->12->19.
+
+Map #7
+The shortest distance between 7 and 0 is 332.00.
+The shortest path from 7 to 0 is 7->0.
+
+Map #8
+The shortest distance between 14 and 19 is 129.00.
+The shortest path from 14 to 19 is 14->11->24->8->19.
+
+Map #9
+The shortest distance between 49 and 2 is 133.00.
+The shortest path from 49 to 2 is 49->46->3->6->2.
+
+Map #10
+The shortest distance between 13 and 7 is 199.00.
+The shortest path from 13 to 7 is 13->10->7.
+
+Map #11
+The shortest distance between 17 and 41 is 90.00.
+The shortest path from 17 to 41 is 17->37->34->0->25->5->27->41.
+
+Map #12
+The shortest distance between 28 and 12 is 188.00.
+The shortest path from 28 to 12 is 28->17->12.
+
+Map #13
+The shortest distance between 1 and 0 is 565.00.
+The shortest path from 1 to 0 is 1->0.
+
+Map #14
+The shortest distance between 6 and 15 is 289.00.
+The shortest path from 6 to 15 is 6->8->0->16->2->12->1->15.
+
+Map #15
+The shortest distance between 14 and 2 is 98.00.
+The shortest path from 14 to 2 is 14->5->1->2.
+
+Map #16
+The shortest distance between 2 and 0 is 2.40.
+The shortest path from 2 to 0 is 2->1->0.
+
+Map #17
+The shortest distance between 0 and 3 is 3.60.
+The shortest path from 0 to 3 is 0->1->4->3.
+
+Map #18
+The shortest distance between 0 and 3 is 3.60.
+The shortest path from 0 to 3 is 0->1->4->3.
+
+Map #19
+The shortest distance between 0 and 3 is 3.59.
+The shortest path from 0 to 3 is 0->1->4->3.
